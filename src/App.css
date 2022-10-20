@@ -27,3 +27,11 @@ h1 {
   text-align: center;
 }
 
+.main-container {
+  min-height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+

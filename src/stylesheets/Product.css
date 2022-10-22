@@ -8,14 +8,14 @@
 }
 
 .product-image {
-  margin:0;
-  padding:0;
+  margin: 0;
+  padding: 0;
   width: 50vw;
   height: 50vw;
 }
 
 .product-text-container {
-  display:flex;
+  display: flex;
   padding: 0;
   margin: 0;
   flex-direction: column;
@@ -44,5 +44,3 @@
   font-size: 0.75rem;
   line-height: 1.5;
 }
-
-

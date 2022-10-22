@@ -5,8 +5,11 @@ function Newsletter() {
   return (
     <div className='newsletter-container'>
       <div className='newsletter-title'>
-        <p>SUCRIBITE</p>
-        <p>Descripción del Producto. Este es un texto simulado</p>
+        <p>SUSCRIBITE</p>
+      </div>
+      <div className='newsletter-description'>
+      <p>Agrega tu correo electrónico</p>
+      <input className='ńewsletter-input' type='email' placeholder='tu correo electrónico'></input>
       </div>
     </div>
 

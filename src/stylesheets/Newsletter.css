@@ -1,7 +1,28 @@
-.newsletter-container{
-width:100%;
+.newsletter-container {
+  width: 100vw;
+  padding: 0;
+  margin: 2vh 0;
+  background-color: #ffffff;
+  box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
 }
 
-.newsletter-title{
-  font-family: Karma, serif;
+.newsletter-title {
+  font-family: 'Bree Serif', serif;
+  font-size: 2em;
+  font-weight: 500;
+  line-height: 2;
+}
+
+.newsletter-description {
+  font-family: 'Lato', Arial, Helvetica, sans-serif;
+  font-size: 1em;
+  font-weight: 300;
+  line-height: 1.5;
+}
+
+.newsletter-input {
+  font-family: 'Lato', Arial, Helvetica, sans-serif;
+  font-size: 1em;
+  font-weight: 300;
+  line-height: 1.5;
 }

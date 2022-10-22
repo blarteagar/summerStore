@@ -4,9 +4,9 @@ import '../stylesheets/Social.css';
 function Social() {
   return (
     <div className='social-container'>
-      <div className='product-text-container'>
-        <p className='product-name'>INSTAGRAM</p>
-        <p className='product-description'>#ESPUFI</p>
+      <div className='social-text-container'>
+        <p className='social-title'>INSTAGRAM</p>
+        <p className='social-description'>#ESPUFI</p>
       </div>
       <div className='social-images-container'>
         <img className='social-image' src={require('../images/kids-ball.jpg')} alt='playful ball for kids' />

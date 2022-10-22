@@ -5,16 +5,16 @@ function Header() {
   return (
     <div className='header-container'>
       <div className='header-logo-container'>
-        <p className='product-name'>PUFI</p>
+        <p className='product-name'>Pufi</p>
       </div>
       <div className='header-navbar-container'>
-        <p className='navbar-link'>PUFI Rain</p>
-        <p className='navbar-link'>PUFI Puff</p>
-        <p className='navbar-link'>PUFI Cart</p>
-        <p className='navbar-link'>PUFI Nap</p>
+        <div>PUFI Rain</div>
+        <div>PUFI Puff</div>
+        <div>PUFI Cart</div>
+        <div>PUFI Nap</div>
       </div>
       <div className='header-log-container'>
-        <p className='product-name'>HOME | MY CART</p>
+        <p>HOME | MY CART</p>
       </div>
       <div className='header-title-container'>
         <h1>ESTAR CÓMODO, NUNCA FUE TAN FÁCIL</h1>

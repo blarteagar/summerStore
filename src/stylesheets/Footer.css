@@ -1,6 +1,12 @@
 .footer-container {
-  width: 100%;
+  margin: 10%;
+  width: 100vw;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   flex-wrap: nowrap;
+  align-items: flex-start;
+}
+
+.footer-first-column-container {
+  font-family: Arial, sans-serif;
 }

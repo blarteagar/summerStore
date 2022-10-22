@@ -9,12 +9,12 @@ function Social() {
         <p className='social-description'>#ESPUFI</p>
       </div>
       <div className='social-images-container'>
-        <img className='social-image' src={require('../images/kids-ball.jpg')} alt='playful ball for kids' />
-        <img className='social-image' src={require('../images/floaters.jpg')} alt='donut and pineapple floaters' />
-        <img className='social-image' src={require('../images/summer-stuff.jpg')} alt='a knitted chair in summer' />
-        <img className='social-image' src={require('../images/swimsuits.jpg')} alt='abunch of colorful swimsuits' />
-        <img className='social-image' src={require('../images/girl-floating.jpg')} alt='girl floating in a donut floater' />
-        <img className='social-image' src={require('../images/colorful-goggles.jpg')} alt='a bunch of colorful goggles' />
+        <img className='social-image' src={require('../images/cart.jpg')} alt='playful ball for kids' />
+        <img className='social-image' src={require('../images/goggles.jpg')} alt='donut and pineapple floaters' />
+        <img className='social-image' src={require('../images/nap.jpg')} alt='a pillow for napping' />
+        <img className='social-image' src={require('../images/swimsuits.jpg')} alt='a bunch of colorful swimsuits' />
+        <img className='social-image' src={require('../images/rain.jpg')} alt='an umbrella in the rain' />
+        <img className='social-image' src={require('../images/puff.jpg')} alt='a floating donut puff' />
       </div>
     </div>
   );

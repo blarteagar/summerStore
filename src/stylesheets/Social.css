@@ -15,7 +15,6 @@
 }
 
 .social-title {
-  font-family: 'Bree Serif', serif;
   font-size: 2em;
   font-weight: '500';
   line-height: 1.75;
@@ -23,7 +22,6 @@
 }
 
 .social-description {
-  font-family: 'Lato', Arial, Helvetica, sans-serif;
   font-size: 1.5em;
   font-weight: '300';
   line-height: 1.25;

@@ -5,21 +5,21 @@ function Header() {
   return (
     <div className='header-container'>
       <div className='header-logo-container'>
-        <p className='product-name'>Pufi</p>
+        <p>Pufi</p>
       </div>
       <div className='header-navbar-container'>
-        <div>PUFI Rain <span class="material-symbols-outlined">
+        <div><div class="material-symbols-outlined">
           umbrella
-        </span></div>
-        <div>PUFI Puff <span class="material-symbols-outlined">
+        </div>PUFI Rain </div>
+        <div><div class="material-symbols-outlined">
           weekend
-        </span></div>
-        <div>PUFI Cart<span class="material-symbols-rounded">
+        </div>PUFI Puff </div>
+        <div><div class="material-symbols-rounded">
           shopping_bag
-        </span></div>
-        <div>PUFI Nap <span class="material-symbols-outlined">
+        </div>PUFI Cart</div>
+        <div><div class="material-symbols-outlined">
           backpack
-        </span></div>
+        </div>PUFI Nap</div>
       </div>
       <div className='header-log-container'>
         <p>HOME | MY CART</p>

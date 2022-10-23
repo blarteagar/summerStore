@@ -8,24 +8,31 @@ function Header() {
         <p>Pufi</p>
       </div>
       <div className='header-navbar-container'>
-        <div><div class="material-symbols-outlined">
-          umbrella
-        </div>PUFI Rain </div>
-        <div><div class="material-symbols-outlined">
+        <div className='navbar-item'>
+        <div class="material-symbols-outlined">
           weekend
-        </div>PUFI Puff </div>
-        <div><div class="material-symbols-rounded">
+        </div>PUFI PUFF</div>
+        <div div className='navbar-item'>
+        <div class="material-symbols-outlined">
+          umbrella
+        </div>PUFI RAIN</div>
+        <div div className='navbar-item'>
+        <div class="material-symbols-rounded">
           shopping_bag
-        </div>PUFI Cart</div>
-        <div><div class="material-symbols-outlined">
+        </div>PUFI CART</div>
+        <div div className='navbar-item'>
+        <div class="material-symbols-outlined">
           backpack
-        </div>PUFI Nap</div>
+        </div>PUFI NAP</div>
       </div>
       <div className='header-log-container'>
-        <p>HOME | MY CART</p>
+        <p>MI CUENTA | MI COMPRA</p>
       </div>
       <div className='header-title-container'>
-        <h1>ESTAR CÓMODO, NUNCA FUE TAN FÁCIL</h1>
+        <div className='header-title'>ESTAR CÓMODO, NUNCA FUE TAN FÁCIL</div>
+      </div>
+      <div className='header-shopping-button-container'>
+        <button className='shop-button'>SHOP</button>
       </div>
     </div>
 
